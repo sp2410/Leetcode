@@ -1,4 +1,4 @@
-#This solution is exceeding time limit, work on better 
+#This solution is exceeding time limit, work on better  982/983 test case passed
 
 def length_of_longest_substring(str)
   
