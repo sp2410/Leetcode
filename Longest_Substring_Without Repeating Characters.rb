@@ -30,7 +30,7 @@ def length_of_longest_substring(str)
     else
       i = myhash[str[i]]
       len = 0 
-      myhash = Hash.new
+      myhash.clear
     end 
     
     i= i+1
